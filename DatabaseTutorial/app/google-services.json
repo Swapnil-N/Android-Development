@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896709546011",
+    "firebase_url": "https://databasetutorial-93c35.firebaseio.com",
+    "project_id": "databasetutorial-93c35",
+    "storage_bucket": "databasetutorial-93c35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896709546011:android:8ac05bcfde3da69e",
+        "android_client_info": {
+          "package_name": "com.example.swapn.databasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896709546011-s2gh56hbqdp06924m27ructpbgssik01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swapn.databasetutorial",
+            "certificate_hash": "5f890708c318a82055240d66e4ad59798f110267"
+          }
+        },
+        {
+          "client_id": "896709546011-n5phbfl443428i7ejf245g2lhe057gdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRqb2O1IxlcwXEMzdCwVH0yvC8z3ZMxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896709546011-n5phbfl443428i7ejf245g2lhe057gdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

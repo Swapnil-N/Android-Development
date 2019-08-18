@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806005879335",
+    "firebase_url": "https://fir-authdemo-529ea.firebaseio.com",
+    "project_id": "fir-authdemo-529ea",
+    "storage_bucket": "fir-authdemo-529ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806005879335:android:4b27e425c2fcd6b3",
+        "android_client_info": {
+          "package_name": "com.example.swapn.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806005879335-h5orsbsvo7bf19mju6ksvg1jr7362soi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swapn.firebaseauthdemo",
+            "certificate_hash": "5f890708c318a82055240d66e4ad59798f110267"
+          }
+        },
+        {
+          "client_id": "806005879335-0t2ci527lv2n0dgu7v0o6q05l53hrurf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTOs193u3yPVg5A96jMxH4IO3bgViGTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806005879335-0t2ci527lv2n0dgu7v0o6q05l53hrurf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
